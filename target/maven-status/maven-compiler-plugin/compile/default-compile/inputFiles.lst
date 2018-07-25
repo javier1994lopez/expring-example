@@ -1,0 +1,9 @@
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/models/entity/Cliente.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/SpringBootDataJpaApplication.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/MvcConfig.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/models/service/ClienteServiceImpl.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/models/service/IClienteService.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/models/dao/IClienteDao.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/util/paginator/PageItem.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/controllers/ClienteController.java
+/Users/hcmx/Documents/workspace-sts-3.9.4.RELEASE/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/app/util/paginator/PageRender.java
